@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dushyant Kumar dushyant@git.training @dushyant2100
 
 # THANKS
 
