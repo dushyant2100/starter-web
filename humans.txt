@@ -3,7 +3,11 @@
 
 # TEAM
 
+<<<<<<< HEAD
     Girish Kumar 
+=======
+    Dushyant Kumar dushyant@git.training @dushyant2100
+>>>>>>> simple-changes
 
 # THANKS
 
